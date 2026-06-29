@@ -1,0 +1,129 @@
+===========================
+Candidate Notes
+===========================
+
+Candidate Name: Johnathan Doe
+
+Excellent backend engineer with strong leadership skills.
+
+Worked at Google and previously at Amazon.
+
+Experience: 6 years
+
+Skills:
+Python
+Java
+SQL
+Docker
+Kubernetes
+AWS
+Microservices
+
+Email:
+john.doe@gmail.com
+
+Phone:
+9876543210
+
+
+--------------------------------------------------
+
+Candidate Name: Jane Smith
+
+Very strong machine learning profile.
+
+Previously worked at Adobe.
+
+Experience:
+4 years
+
+Skills:
+Python
+Machine Learning
+TensorFlow
+PyTorch
+SQL
+
+Email:
+jane.smith@gmail.com
+
+Phone:
+9988776655
+
+
+--------------------------------------------------
+
+Candidate Name: Rahul Verma
+
+Strong Java developer.
+
+Interested in cloud technologies.
+
+Skills
+
+Java
+Spring Boot
+Docker
+AWS
+MySQL
+
+Experience:
+5 years
+
+Email:
+rahul.verma@gmail.com
+
+Phone:
+9123456789
+
+
+--------------------------------------------------
+
+Candidate Name: Michael Brown
+
+Not available in recruiter CSV.
+
+Senior Full Stack Developer.
+
+Experience:
+8 years
+
+Skills
+
+React
+Node.js
+TypeScript
+MongoDB
+AWS
+
+Email:
+michael.brown@gmail.com
+
+Phone:
++1 555 123 4567
+
+
+--------------------------------------------------
+
+Candidate Name: Arjun Patel
+
+Backend Developer
+
+Worked on distributed systems.
+
+Experience:
+3 years
+
+Skills
+
+Python
+FastAPI
+Docker
+Redis
+Kafka
+
+Email:
+arjun@gmail.com
+
+Phone:
+9090909090

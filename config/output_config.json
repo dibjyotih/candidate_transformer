@@ -1,0 +1,47 @@
+{
+    "include_confidence": true,
+
+    "fields": [
+
+        {
+            "from": "candidate_id",
+            "path": "candidate_id"
+        },
+
+        {
+            "from": "full_name",
+            "path": "full_name"
+        },
+
+        {
+            "from": "emails",
+            "path": "emails"
+        },
+
+        {
+            "from": "phones",
+            "path": "phones"
+        },
+
+        {
+            "from": "headline",
+            "path": "headline"
+        },
+
+        {
+            "from": "skills",
+            "path": "skills"
+        },
+
+        {
+            "from": "experience",
+            "path": "experience"
+        },
+
+        {
+            "from": "education",
+            "path": "education"
+        }
+
+    ]
+}
