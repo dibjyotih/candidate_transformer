@@ -1,0 +1,8 @@
+pandas
+pydantic
+phonenumbers
+email-validator
+python-dateutil
+rapidfuzz
+typer
+loguru
