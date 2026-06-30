@@ -19,7 +19,7 @@ export default function CandidateCard({
             <p>{candidate.professional.headline}</p>
 
             <p>
-                ⭐ Confidence:{" "}
+                * Confidence:{" "}
                 {(candidate.metadata.confidence * 100).toFixed(0)}%
             </p>
         </div>

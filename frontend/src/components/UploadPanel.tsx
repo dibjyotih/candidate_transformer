@@ -26,37 +26,36 @@ export default function UploadPanel({
 
             </h2>
 
-            <input
+            <label>
+                Upload CSV
+                <input
 
-            type="file"
+                type="file"
 
-            accept=".csv"
+                accept=".csv"
 
-            onChange={(e)=>{
+                onChange={(e)=>{
 
-                if(e.target.files)
+                    if(e.target.files)
 
-                    setCsv(e.target.files[0]);
+                        setCsv(e.target.files[0]);
 
-            }}
+                }}
 
-            />
+                />
+            </label>
 
-            <input
-
-            type="file"
-
-            accept=".txt"
-
-            onChange={(e)=>{
-
-                if(e.target.files)
-
-                    setNotes(e.target.files[0]);
-
-            }}
-
-            />
+            <label>
+                Upload Notes
+                <input
+                    type="file"
+                    accept=".txt"
+                    onChange={(e)=>{
+                        if(e.target.files)
+                            setNotes(e.target.files[0]);
+                    }}
+                />
+            </label>
 
             <button
 
