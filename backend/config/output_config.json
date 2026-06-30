@@ -1,0 +1,57 @@
+{
+    "include_confidence": true,
+    "include_provenance": true,
+
+    "fields": [
+
+        {
+            "from": "candidate_id",
+            "path": "candidate_id"
+        },
+
+        {
+            "from": "personal.full_name",
+            "path": "full_name"
+        },
+
+        {
+            "from": "personal.emails",
+            "path": "emails"
+        },
+
+        {
+            "from": "personal.phones",
+            "path": "phones"
+        },
+
+        {
+            "from": "personal.location",
+            "path": "location"
+        },
+
+        {
+            "from": "professional.headline",
+            "path": "headline"
+        },
+
+        {
+            "from": "professional.skills",
+            "path": "skills"
+        },
+
+        {
+            "from": "professional.years_experience",
+            "path": "years_experience"
+        },
+
+        {
+            "from": "professional.experience",
+            "path": "experience"
+        },
+
+        {
+            "from": "education",
+            "path": "education"
+        }
+    ]
+}
